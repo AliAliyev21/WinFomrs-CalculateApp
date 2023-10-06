@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\WinFormsCalculate\WinFormsCalculate\bin\Debug\WinFormsCalculate.exe.config
+C:\Users\user\source\repos\WinFormsCalculate\WinFormsCalculate\bin\Debug\WinFormsCalculate.exe
+C:\Users\user\source\repos\WinFormsCalculate\WinFormsCalculate\bin\Debug\WinFormsCalculate.pdb
+C:\Users\user\source\repos\WinFormsCalculate\WinFormsCalculate\obj\Debug\WinFormsCalculate.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\WinFormsCalculate\WinFormsCalculate\obj\Debug\WinFormsCalculate.Form1.resources
+C:\Users\user\source\repos\WinFormsCalculate\WinFormsCalculate\obj\Debug\WinFormsCalculate.Properties.Resources.resources
+C:\Users\user\source\repos\WinFormsCalculate\WinFormsCalculate\obj\Debug\WinFormsCalculate.csproj.GenerateResource.cache
+C:\Users\user\source\repos\WinFormsCalculate\WinFormsCalculate\obj\Debug\WinFormsCalculate.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\WinFormsCalculate\WinFormsCalculate\obj\Debug\WinFormsCalculate.exe
+C:\Users\user\source\repos\WinFormsCalculate\WinFormsCalculate\obj\Debug\WinFormsCalculate.pdb
